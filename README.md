@@ -1,2 +1,0 @@
-# MobileApp
-Mobile Client
